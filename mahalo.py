@@ -4,7 +4,7 @@ import os
 import time
 
 
-DELAY_SECONDS = 1.0
+DELAY_SECONDS = 1.5
 
 
 def clear_screen():
